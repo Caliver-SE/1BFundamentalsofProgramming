@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>RETRO RUSH</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+  <!-- TOP NAV -->
+  <header class="nav">
+    <div class="nav-left">🎮</div>
+    <div class="nav-right">
+      <a href="#">HOME</a>
+      <a href="#">ABOUT US</a>
+      <a href="#">GAMES</a>
+      <a href="#">HELP</a>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <main class="hero">
+
+    <div class="center">
+      <h1 class="title">RETRORUSH</h1>
+
+      <div class="start-wrap">
+        <button class="start-btn">START</button>
+        <div class="start-base"></div>
+      </div>
+    </div>
+
+    <!-- BOTTOM LEFT ICONS -->
+    <div class="icons">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+    <!-- BOTTOM RIGHT -->
+    <div class="madeby">
+      Made by:<br>
+      <strong>Caliver Partible</strong>
+    </div>
+
+  </main>
+
+</body>
+</html>
